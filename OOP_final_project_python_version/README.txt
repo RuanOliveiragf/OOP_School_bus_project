@@ -1,0 +1,1 @@
+basta executar o arquivo "aplicação.py"
